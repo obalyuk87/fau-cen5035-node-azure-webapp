@@ -2,7 +2,7 @@
 
 const express = require("express");
 const PORT = 8080;
-const VERSION = 3.0;
+const VERSION = 4.0;
 
 // init app
 const app = express();
