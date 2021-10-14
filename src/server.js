@@ -1,7 +1,7 @@
 // https://expressjs.com/en/starter/hello-world.html
 
 const express = require("express");
-const PORT = 80;
+const PORT = 8080;
 const VERSION = 1.0;
 
 // init app
