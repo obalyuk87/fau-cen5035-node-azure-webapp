@@ -12,8 +12,6 @@
 * Chai - https://www.chaijs.com/<br>
   Chai is a BDD / TDD assertion library for node and the browser that can be delightfully   paired with any javascript testing framework.
 
----
-
 ## Useful Links
 
 * https://docs.github.com/en/actions/deployment/deploying-to-azure-app-service
