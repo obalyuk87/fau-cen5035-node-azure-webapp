@@ -22,6 +22,10 @@
 #     branches:
 #       - main
 
+
+name: Release WebApp to Azure
+
+
 on: 
   release:
     types: 
