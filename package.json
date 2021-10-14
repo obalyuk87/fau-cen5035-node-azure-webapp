@@ -1,0 +1,28 @@
+{
+  "name": "fau-cen5035-node-azure-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "mocha test/* --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obalyuk87/fau-cen5035-node-azure-webapp.git"
+  },
+  "author": "Alex Balyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obalyuk87/fau-cen5035-node-azure-webapp/issues"
+  },
+  "homepage": "https://github.com/obalyuk87/fau-cen5035-node-azure-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.1.2"
+  }
+}
