@@ -1,4 +1,4 @@
-# FAU CEN5035 Demo: Node.js WebApp in Azure with CI/CD
+# FAU CEN5035 Demo: Node.js WebApp in Azure
 
 ## Libraries Used
 
